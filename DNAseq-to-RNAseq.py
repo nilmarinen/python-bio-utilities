@@ -1,5 +1,5 @@
 DNAseq = input("Enter DNA sequence: ")
 DNAseq = DNAseq.upper().replace(" ","").replace("\n","")
 RNAseq = DNAseq.replace("T","U")
-print(RNAseq)
+print(f"Here's the RNAseq:\n{RNAseq}")
 input("Press any key to exit.")
