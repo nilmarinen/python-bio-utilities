@@ -6,7 +6,7 @@ def sb_medium(liters):
 
     print("Recipe for",liters, "L of SB-medium\n"
     "\n"
-    "Peptone:",p,"g\n"
+    "Peptone/Tryptone:",p,"g\n"
     "Yeast extract:",y,"g\n"
     "MOPS:",m,"g\n"
     "NaOH:",n,"g\n"
