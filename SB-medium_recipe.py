@@ -1,4 +1,4 @@
-def sb_medium(liters):
+def sb_medium(liters: int):
     p = liters * 30
     y = liters * 20
     m = liters * 10
