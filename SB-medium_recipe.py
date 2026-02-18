@@ -13,7 +13,7 @@ def sb_medium(liters: int):
     "Fill to",0.9*liters*1000,"mL mQ-H2O.\n"
     "Adjust pH to 7.0 with NaOH or HCl.\n"
     "Fill to",liters,"L.\n"
-    "Sterilize bu autoclaving.")
+    "Sterilize by autoclaving.")
 
 
 sb_medium(4)
