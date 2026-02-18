@@ -1,8 +1,10 @@
+# Let's practice writing functions with something useful that needs to calculated often
+
 def sb_medium(liters: int):
     p = liters * 30
     y = liters * 20
     m = liters * 10
-    n = liters * 0.700
+    n = liters * 0.7
 
     print("Recipe for",liters, "L of SB-medium\n"
     "\n"
